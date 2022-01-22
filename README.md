@@ -13,12 +13,19 @@ I followed multiple internet resources(I know they are many) from where I am lea
 References:
 
 https://kotlinlang.org/lp/mobile/
+
 https://kotlinlang.org/docs/multiplatform.html
+
 https://blog.jetbrains.com/kotlin/2020/08/kotlin-multiplatform-mobile-goes-alpha/
+
 https://www.bugsnag.com/blog/kotlin-multiplatform
+
 https://github.com/bugsnag/kotlin-multiplatform-example
+
 https://www.raywenderlich.com/19144111-kotlin-multiplatform-project-for-android-and-ios-getting-started
+
 https://medium.com/47billion/kotlin-multiplatform-mobile-780e6978461
+
 
 Videos :
 https://www.youtube.com/watch?v=7Lz9mvnK-x8
